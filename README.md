@@ -2,7 +2,7 @@
 
 I'm a Master's student in Data Science at Duke University. I studied Cognitive Science, Machine Learning, and Computer Science at UC San Diego.
 
-I build across the full stack of modern ML — from classical search and statistical inference to LLM fine-tuning, multi-tool agents, and real-time data pipelines. My background in Cognitive Science pulls me toward questions at the intersection of language and decision-making: how models resolve ambiguity, when learning outperforms rules, and how AI systems can be genuinely useful in high-stakes domains. A lot of my work touches healthcare and language, two areas I keep coming back to.
+I build across the full stack of modern ML — from classical search and statistical inference to LLM fine-tuning, multi-tool agents, and real-time data pipelines. My background in Cognitive Science pulls me toward questions at the intersection of language and decision-making: how models resolve ambiguity, when learning outperforms rules, and how AI systems can be genuinely useful in high-stakes domains.
 
 **Contact:** personal: anvita.suresh3@gmail.com, school: anvita.suresh@duke.edu
 
