@@ -1,10 +1,10 @@
 # Hi, I'm Anvita :)
 
-I'm a Master's student in Data Science at Duke University. I studied Cognitive Science and Machine Learning at UC San Diego.
+I'm a Master's student in Data Science at Duke University. I studied Cognitive Science, Machine Learning, and Computer Science at UC San Diego.
 
 I build across the full stack of modern ML — from classical search and statistical inference to LLM fine-tuning, multi-tool agents, and real-time data pipelines. My background in Cognitive Science pulls me toward questions at the intersection of language and decision-making: how models resolve ambiguity, when learning outperforms rules, and how AI systems can be genuinely useful in high-stakes domains. A lot of my work touches healthcare and language, two areas I keep coming back to.
 
-**Contact:** anvita.suresh3@gmail.com
+**Contact:** personal: anvita.suresh3@gmail.com, school: anvita.suresh@duke.edu
 
 ---
 
@@ -77,7 +77,7 @@ I build across the full stack of modern ML — from classical search and statist
 
 | Project | Description |
 | --- | --- |
-| [dine-like_DE-final-project](https://github.com/anvitasuresh/Dine-Like_DE-Final-Project) | End-to-end recommendation pipeline — Kafka + Airflow + PostgreSQL + FastAPI + React, deployed on Railway and Vercel |
+| [dine-like_DE-final-project](https://github.com/anvitasuresh/dine-like_DE-final-project) | End-to-end recommendation pipeline — Kafka + Airflow + PostgreSQL + FastAPI + React, deployed on Railway and Vercel |
 | [kafka-real-time-pipeline](https://github.com/anvitasuresh/kafka-real-time-pipeline) | Real-time ride-sharing data streaming with Kafka, PostgreSQL, and Streamlit — surge pricing simulation, anomaly detection, and trip duration prediction |
 | [netflix-airflow-pipeline](https://github.com/anvitasuresh/netflix-airflow-pipeline) | Airflow DAG that ingests, cleans, and merges Netflix engagement data into PostgreSQL with churn prediction and automated cleanup |
 | [pyspark-data-processing](https://github.com/anvitasuresh/pyspark-data-processing) | PySpark pipeline on 20M+ Indian commodity price records — SQL analytics, filter pushdown optimization, Parquet output |
